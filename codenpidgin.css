@@ -1,0 +1,218 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+ul{
+	background-color: #e4e8d8;
+	padding: 20px;
+	margin-top: 0px;
+
+}
+
+li{
+	display: inline;
+	padding: 20px;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+span{
+	font-size: 25px;
+  	color:#5c0f0f;
+  	font-weight: bold;
+  	text-shadow: 1px 1px 10px #382e23;
+}
+.download-cv{
+	float: right;
+	background:#979e80 ;
+	margin-top: -1.3%;
+	border-radius: 10px;
+	color: white;
+
+}
+
+.profile-bg{
+	height: 500px;
+	background: #e5e6d8;
+}
+.victor-image{
+	float: right;
+	height: 500px;
+}
+
+.header-texts{
+	padding: 5%;
+	text-shadow: 1px 1px 10px #382e23;
+}
+.intro-text{
+	padding: 20px;
+	font-size: 25px;
+}
+.explore-button{
+	padding: 20px;
+	background:#979e80 ;
+	border-radius: 5px;
+	color: whitesmoke;
+}
+
+.explore-button:hover{
+	background: #47423c;
+
+}
+.skill-cards-wrapper{
+	text-align: center;
+}
+
+.skill-card{
+	height: 250px;
+	background: transparent;
+	border-radius: 10px;
+	box-shadow: 0px 0px 20px 1px whitesmoke;
+	width: 300px;
+	display: inline-block;
+	margin: 2%;
+text-align: center;
+
+}
+.skill-card:hover{
+	box-shadow: 0px 0px 20px 1px #382e23;
+}
+
+.skill-title{
+	padding: 15px;
+	background: whitesmoke;
+	border-radius: 10px;
+	font-weight: bold;
+}
+.list-skills{
+	text-align: left;
+	margin: 10px;
+}
+.projects-cards-wrapper{
+	text-align: center;
+	height: 400px;
+	background: #979e80;
+	color: whitesmoke;
+	text-shadow: 2px 2px 10px grey;
+	border-radius: 5px;
+	margin: 5px;
+}
+
+
+.project-card{
+	height: 250px;
+	background: transparent;
+	border-radius: 10px;
+	box-shadow: 0px 0px 20px 1px whitesmoke;
+	width: 600px;
+	display: inline-block;
+	margin: 2%;
+
+
+}
+.distinction-cards-wrapper{
+	text-align: center;
+	height: 500px;
+	border-width: 2px;
+	border-style: dashed;
+	margin-top: 2px;
+	border-color: green;
+	color: #382e23;;
+	text-shadow: 2px 2px 10px gray;
+	border-radius: 15px;
+	margin: 2%;
+}
+.distinction-card{
+	height: 250px;
+	background: transparent;
+	border-width: 2px;
+	border-style: dashed;
+	width: 300px;
+	display: inline-block;
+	margin: 5%;
+}
+.referee-cards-wrapper{
+	text-align: center;
+	height: 200px;
+	background: #d6d5d2;
+	color: #382e23;
+	border-radius: 15px;
+}
+
+.referee-card{
+	height: 150px;
+	background: transparent;
+	border-radius: 10px;
+	width: 600px;
+	display: inline-block;
+	margin: 2%;
+	border-width: 2px;
+	border-style: dashed;
+}
+.referee-image{
+	border-radius: 200px;
+	height: 50px;
+	width: 50px;
+	float: left;
+}
+
+.referee-status{
+	float: right;
+	font-weight: bold;
+}
+
+.footer{
+	text-align: center;
+	height: 500px;
+	margin-top: 2px;
+	margin: 2%;
+
+}
+.contact-form{
+	height: 250px;
+	background: transparent;
+	border-radius: 10px;
+	width: 600px;
+	display: inline-block;
+	margin: 2%;
+}
+.input {
+	width: 100%;
+  	padding: 12px 20px;
+  	margin: 8px 0;
+  	display: inline-block;
+  	border: 1px solid #ccc;
+  	border-radius: 4px;
+  	box-sizing: border-box;
+}
+.send-button{
+	padding: 15px;
+	background: #e6f5c1;
+	font-weight: bold;
+	color: whitesmoke;
+}
+textarea{
+	height: 255px;
+}
+.media{
+	height: 250px;
+	border-radius: 10px;
+	width: 600px;
+	display: inline-block;
+	margin: 2%;
+}
+.send{
+	font-weight: bold;
+	color: green;
+}
+.clap{
+	height: 150px;
+	width: 150px;
+	float: left;
+}
+.vic-img{
+	height: 150px;
+	width: 150px;
+	float: right;
+}
